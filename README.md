@@ -1,14 +1,14 @@
 # TTVerifyCodeView
 短信验证码输入控件
 
-###提供三种风格的短信验证码输入控件
+### 提供三种风格的短信验证码输入控件
 ![WX20180301-115523@2x.png](http://upload-images.jianshu.io/upload_images/810907-ed569ab4d5f0b820.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![WX20180301-115557@2x.png](http://upload-images.jianshu.io/upload_images/810907-3c5c16b12e58dfc0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![WX20180301-115857@2x.png](http://upload-images.jianshu.io/upload_images/810907-73c8b78dc8a73737.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-###支持以下属性设置
+### 支持以下属性设置
 
 ```objc
 /**
@@ -54,7 +54,7 @@
 
 ```
 
-###1.代码使用
+### 1.代码使用
 ```objc
 /**
  类方法 创建一个TTVerifyCodeView
@@ -81,7 +81,7 @@
  */
 + (instancetype)verifyCodeViewBorderTypeNoneNormalColor:(UIColor *)normalColor CursorColor:(UIColor *)cursorColor CodeColor:(UIColor *)codeColor Margin:(CGFloat)margin;
 ```
-###2.IB使用方式
+### 2.IB使用方式
 
 1. 支持各属性设置
 
