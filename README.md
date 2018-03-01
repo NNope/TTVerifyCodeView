@@ -2,7 +2,7 @@
 短信验证码输入控件
 
 ### 提供三种风格的短信验证码输入控件
-![WX20180301-115523@2x.png](http://upload-images.jianshu.io/upload_images/810907-ed569ab4d5f0b820.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![WX20180301-121240@2x.png](http://upload-images.jianshu.io/upload_images/810907-8e16d92c65a509ca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![WX20180301-115557@2x.png](http://upload-images.jianshu.io/upload_images/810907-3c5c16b12e58dfc0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
